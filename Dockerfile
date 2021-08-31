@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:bionic
 LABEL maintainer="hugo-adword <00.hugo.ad@gmail.com>"
 ENV DEBIAN_FRONTEND noninteractive
 
